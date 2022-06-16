@@ -1,2 +1,2 @@
-# lprs2-clock-python
-# lprs2-clock-python
+## Python
+Install serial library: `pip install pyserial`
